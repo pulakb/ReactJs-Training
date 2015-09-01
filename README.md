@@ -1,4 +1,4 @@
-# ReactJs-Training
+### Examples
 
-#### CommentsBox
+##### CommentsBox
 Example taken from [React tutorial](https://facebook.github.io/react/docs/tutorial.html).
