@@ -1,3 +1,5 @@
+// Tag 2
+
 var Comment = React.createClass({
 
     render: function() {
