@@ -68,6 +68,10 @@ var CommentBox = React.createClass({
             dataType: 'json',
             cache: false,
             success: function (data) {
+                /*
+                * Calling setState triggers UI updates and is the bread and butter
+                * of React’s interactivity.
+                * */
                 this.setState({data: data});
             }.bind(this),
             error: function (xhr, status, err) {
@@ -95,6 +99,10 @@ var CommentBox = React.createClass({
         });
     },
 
+    /*
+    *  If we want to set an initial state before any interaction occurs we can use
+    *  the getInitialState method.
+    * */
     getInitialState: function () {
         return {data: []};
     },
