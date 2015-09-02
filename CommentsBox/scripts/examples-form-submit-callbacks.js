@@ -107,6 +107,10 @@ var CommentBox = React.createClass({
         return {data: []};
     },
 
+    /*
+    * Lifecycle Method : componentDidMount – Invoked once, only on the client, after rendering occurs.
+    * */
+
     componentDidMount: function () {
         this.loadCommentsFromServer();
         setInterval(this.loadCommentsFromServer, this.props.pollInterval);
