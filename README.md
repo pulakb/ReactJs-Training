@@ -7,5 +7,4 @@
 ##### FilteredList
 [Scotch tutorial](https://scotch.io/tutorials/learning-react-getting-started-and-concepts).
 ##### PhotoGallery
-[The React Quick Start Guide]
-http://www.jackcallister.com/2015/01/05/the-react-quick-start-guide.html
+[The React Quick Start Guide](http://www.jackcallister.com/2015/01/05/the-react-quick-start-guide.html)
