@@ -5,15 +5,15 @@
   "description": "Experimenting with the flux pattern",
   "repository": "https://github.com/jarsbe/flux-comment",
   "dependencies": {
-    "flux": "^2.0.0",
-    "object-assign": "^1.0.0",
-    "react": "^0.12.2",
-    "node-http-server": "^2.0.0"
+    "flux": "*",
+    "object-assign": "*",
+    "react": "*",
+    "node-http-server": "*"
   },
   "devDependencies": {
-    "jsx-loader": "^0.12.2",
-    "reactify": "^0.15.2",
-    "webpack": "^1.5.3"
+    "jsx-loader": "*",
+    "reactify": "*",
+    "webpack": "*"
   },
   "scripts": {
     "start": "npm run webpack & npm run serve",
