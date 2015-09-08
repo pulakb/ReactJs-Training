@@ -10,3 +10,5 @@
 [The React Quick Start Guide](http://www.jackcallister.com/2015/01/05/the-react-quick-start-guide.html)
 ##### CommentApp
 [The Flux Quick Start Guide](http://www.jackcallister.com/2015/02/26/the-flux-quick-start-guide.html)
+##### FilteredProductList
+[Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
