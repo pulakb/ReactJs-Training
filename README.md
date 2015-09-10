@@ -12,3 +12,5 @@
 [The Flux Quick Start Guide](http://www.jackcallister.com/2015/02/26/the-flux-quick-start-guide.html)
 ##### FilteredProductList
 [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
+##### Component States
+[Understanding the React Component lifecycle](http://busypeoples.github.io/post/react-component-lifecycle/)
